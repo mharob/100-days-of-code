@@ -3,9 +3,9 @@
 ### Day 0: May 1, 2017 
 
 
-**Today's Progress**: Started 100 Days of Code and Deliberate Practice.
+**Today's Progress**: Started 100 Days of Code, Deliberate Practice, and JavaScript.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I feel that due to my experience in C++.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
