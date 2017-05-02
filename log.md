@@ -3,9 +3,9 @@
 ### Day 0: May 1, 2017 
 
 
-**Today's Progress**: Started 100 Days of Code, Deliberate Practice, and JavaScript.
+**Today's Progress**: Started 100 Days of Code & Deliberate Practice. Furthermore, I made a sizeable chunk of headway in JavaScript during class time. At home I was able to complete the entirety of the HTML5 & CSS section within an hour and 25 minutes. 
 
-**Thoughts:** I feel that due to my experience in C++.
+**Thoughts:** I feel that due to my experience in C++ that adapting my knowledge of programming concepts to JavaScript has been a rather seamless transition. However, this is regarding the most basic of concepts of a language and differences have been noted. The most notable differences between C++ and JavaScript so far being the declaration of variables.  On the other hand, HTML was rather frustrating syntactically due to the chaotic but semi-organized nature of nesting multiple tags within one another. I found the use of classes within CSS to be a comfortable adaptation to HTML as I went along. 
 
 **Link to work:** [Calculator App](http://www.example.com)
 
