@@ -9,6 +9,6 @@
 
 ### Day 1: May 2, 2017 Tuesday
 
-**Today's Progress**: I fully completed the Responsive Design with Bootstrap and jQuery excersies in my 1 hour and 25 minute pomerro session. 
+**Today's Progress**: I fully completed the Responsive Design with Bootstrap and jQuery challenges in my 1 hour and 25 minute pomerro session. Furthermore, I utilized FCC's help system when I got stuck on a jQuery exercise and am grateful for the assistance.
 
 **Thoughts** My frustrations with HTML from yesterday's session carried over until I became more familair with Bootstrap and jQuery. Once comfortable with it, I came to truly appreciate Bootstrap as a very powerful tool for responsively adapting HTML. In regards to jQuery,  I found its use of ids to alter elements  amusingly similar to how C++ ultilizes pointers to manipulate variables. However, that was easily outshined by how jQuery can "chain" functions together to achieve a desired effect. That was a particular new concept to me and I found myself curious about whether I could apply the same concept for use in C++ coding.
