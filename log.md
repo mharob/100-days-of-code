@@ -19,3 +19,10 @@
 **Today's Progress**: I completed the majority of the Basic JavaScripting challenges in my 1 hour and 25 minute session. However, that is frankly all I could manage as I had a rough time with the later material. 
 
 **Thoughts** Today's frustrations consist of how objects work in JavaScript. While they may be similar to structures in appearance and design they can also act on entirely other behaviors. I was not sure if it was just simply the syntax or the logic behind utilizing the behaviors but a good portion of the object challenges through me for a loop. While I may of had setbacks and hardships today, I am by no means unmovtivated to charge in tomorrow and conquer these tests of adversity. My goal for tomorrow is to get through to the algorithim challenges and complete as many as possible.
+
+
+### Day 3: May 4, 2017 Thursday
+
+**Today's Progress**: I was able to complete all but the Profile Lookup challenge of the Basic JavaScript section. As well as complete the first and work on the second exercise of the Basic Algorithim Scripting section. All within my usual one hour and 25 minute coding session. 
+
+**Thoughts** While I was able to work through the rest of the exercises for some reason I just can't get a handle on the profile loopup challenge. I believe it has something to do with establishing a if condition to check if the prop of the appropriate name is present. Usually to check for a property one would use the .hasOwnProperty function. However, how would one do so to check for the property for a specific name? Beyond that the reverse string algorithim was minimal beyond getting hung up on the behaviors of the seperator parameter for a time. The factorial challenge is giving me some grief in that my array will not populate and I will have to research further on the behavior. 
