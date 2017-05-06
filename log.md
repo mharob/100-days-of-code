@@ -28,8 +28,15 @@
 **Thoughts** While I was able to work through the rest of the exercises for some reason I just can't get a handle on the profile loopup challenge. I believe it has something to do with establishing a if condition to check if the prop of the appropriate name is present. Usually to check for a property one would use the .hasOwnProperty function. However, how would one do so to check for the property for a specific name? Beyond that the reverse string algorithim was minimal beyond getting hung up on the behaviors of the seperator parameter for a time. The factorial challenge is giving me some grief in that my array will not populate and I will have to research further on the behavior.
 
 
-### Day 4: May 5, 2017 Thursday
+### Day 4: May 5, 2017 Friday
 
 **Today's Progress**: I completed the Basic Algorithim Scripting challenges up to Truncate a String except for Check for Palindromes in my usual 1 hour and 25 minute session. 
 
-**Thoughts** I was finally able to fix my bugs within my Factorial Challenge code. The issue lie in that while my array is 0 based I was trying to factorial starting at 0 so I adjusted it to populate starting at 1. The rest of the challenges were not teeth-grinding except for the Palindromes challenge. I believe the issue has to do with my lack of understanding of the .replace property for strings. I tried reading up on it but it did not make any sense afterwards. Furthermore, I will have to spend some time to get a better grasp on regular expressions as I feel that will allow me to solve the problem more efficiently. Overall, I feel a great deal more accomplished than I did the previous day and am looking forward to tomorrow. 
+**Thoughts** I was finally able to fix my bugs within my Factorial Challenge code. The issue lie in that while my array is 0 based I was trying to factorial starting at 0 so I adjusted it to populate starting at 1. The rest of the challenges were not teeth-grinding except for the Palindromes challenge. I believe the issue has to do with my lack of understanding of the .replace property for strings. I tried reading up on it but it did not make any sense afterwards. Furthermore, I will have to spend some time to get a better grasp on regular expressions as I feel that will allow me to solve the problem more efficiently. Overall, I feel a great deal more accomplished than I did the previous day and am looking forward to tomorrow.
+
+
+### Day 5: May 6, 2017 Saturday
+
+**Today's Progress**: I completed the Truncate a string, Slasher Flick, and Mutations Basic Algorithim Scripting Challeges during my usual 1 hour and 25 minute coding session. 
+
+**Thoughts** Overall I did not have a great of issue working on today's coding challenges except for the tweaking of numbers. I was having a hard time coding for the right integers used to represent the position in which I would slice my strings or arrays. Thus I had set aside some to develop methods or algoritims in which to obtain the correct numbers if I was to find the solutions to the challenges. Unfortunately, I skipped the Chunky Monkey challenge for now as I wanted to complete as many challenges as I could and it was taking up my time. I believe my frustations with Chunky Monkey stem from the multi-dimensional arrays that lead to its solution. I will have to make considerable more analysis and work through the logic of the problem if I am to complete it. All in all, I feel accomplish and look forward to solving Chunky Monkey and the rest of the challenges. 
